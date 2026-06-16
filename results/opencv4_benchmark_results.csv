@@ -1,0 +1,7 @@
+opencv_version,operation,runs,avg_time_ms
+4.13.0,grayscale_conversion,50,0.0259
+4.13.0,gaussian_blur,50,0.2367
+4.13.0,canny_edge_detection,50,0.2094
+4.13.0,image_resize,50,0.111
+4.13.0,binary_thresholding,50,0.0414
+4.13.0,contour_detection,50,0.1195
