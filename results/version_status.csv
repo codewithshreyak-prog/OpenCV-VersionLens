@@ -1,0 +1,3 @@
+item,status
+Current benchmark versions available,OpenCV 4.x
+OpenCV 5.x benchmark,Pending - run again when OpenCV 5 Python support is available in this environment
